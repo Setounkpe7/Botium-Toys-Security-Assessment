@@ -181,7 +181,3 @@ D’après la checklist de conformité :
 
 ---
 
-## Illustrations
-
-À suivre 
-
