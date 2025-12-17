@@ -28,7 +28,7 @@ Le rapport initial de risque indique :
 
 - Une **gestion des actifs insuffisante**  
 - Un **manque de contrôles** et de conformité aux réglementations US et internationales  
-- Un **score de risque de 8/10**, jugé élevé :contentReference[oaicite:4]{index=4}  
+- Un **score de risque de 8/10**, jugé élevé
 
 ---
 
